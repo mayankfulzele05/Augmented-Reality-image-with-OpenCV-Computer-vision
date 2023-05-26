@@ -7,6 +7,8 @@ Feature detection
 It explains the concept of Feature Detection and Description.
 Oriented FAST and Rotated BRIEF (ORB) used, being Open Source.
 Feature detected and marked as green points in the image (IMG_20230526_135552.jpg)
+![image](https://github.com/mayankfulzele05/Augmented-Reality-image-with-OpenCV-Computer-vision/assets/131655488/c6357ed9-e6eb-4fd6-84eb-19312b134cb2)
+
 
 Feature matching
 It explains the concept of feature matching.
